@@ -1,3 +1,5 @@
 # leetcode-problem
-solving leetcode dsa problem
-NAME-Satyam Govind Rao
+solving leetcode dsa problem.
+<br>
+Name-Satyam Govind Rao
+
